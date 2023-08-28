@@ -1,7 +1,3 @@
-# EventManager
-A web application where users can create a new account,log in, create event reminders with specific details.
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
