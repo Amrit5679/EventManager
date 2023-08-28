@@ -1,0 +1,38 @@
+.add-event{
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 12px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.form-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.button{
+    height: 50px;
+    width: 150px;
+    background-color: #689f38;
+    color: white;
+    transition-duration: 1s;
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #33691e;
+}

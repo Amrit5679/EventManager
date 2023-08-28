@@ -1,0 +1,21 @@
+.body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.body > h1{
+    /* display: flex;
+    justify-content: center; */
+}
+.text{
+    font-size: 50px;
+    font-style: italic;
+    padding: 20px;
+}
+.image{
+    width: fit-content;
+    height: fit-content;
+    /* display: flex;
+    align-items: center;  */
+    /* margin-left: 180px;  */
+}
